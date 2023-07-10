@@ -33,9 +33,7 @@ function generateMarkdown(data) {
   * [License](#license)
   * [Contribution](#contribution)
   * [Tests](#tests)
-  * [Github](#github)
-  * [Email](#email)
-  * [Link](#link)
+  * [Questions](#questions)
 
   ## Installation
   ${data.installation}
@@ -52,15 +50,10 @@ function generateMarkdown(data) {
   ## Tests
   ${data.tests}
 
-  ## Github
+  ## Questions
+  The link to my application is ${data.link}. If you have any questions, please feel free to contact me through github or directly by email.
   ${data.github}
-
-  ## Email
   ${data.email}
-
-  ## Link
-  The link to my application is ${data.link}. If you have any questions, please contact me.
-
 `;
 }
 
