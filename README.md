@@ -6,7 +6,6 @@
   This application helps users generate professional README files through a series of questions using Node.js in the integrated terminal.
 
   ## Table of Contents
-  * [Title](#title)
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
