@@ -15,7 +15,7 @@
   * [Questions](#questions)
 
   ## Installation
-  Clone a copy of this repo into a foldler on your computer. Open in Vscode and make sure that you have Node.js installed already.  In the integrated terminal use npm intall inquirer@6.3.1.
+  Clone a copy of this repo into a foldler on your computer. Make sure that you have Node.js installed.  Open the folder in VScode and in the integrated terminal type npm install inquirer@6.3.1 to install the correct version of Inquirer.
 
   ## Usage
   To run this application, open the folder in your integrated terminal and type node index.js in the command line.  Answer the questions with as much detail as you can and the application will generate a README file. Copy that file into your application repo to use as your README file.  Here is a video of how to use this application once you have cloned a copy into a folder on your computer. https://drive.google.com/file/d/1egZF6n1yVG3VWXmvFveDUWsI2ca18m9r/view
@@ -30,6 +30,6 @@
   Please for the love of JavaScript try to break this code and make sure to let me know when you do, so I can fix it!
 
   ## Questions
-  The link to my application is https://github.com/markthos/Pro-Readme-Generator#title. If you have any questions, please feel free to contact me through github or directly by email.
-  https://github.com/markthos
-  aydenthos@gmail.com
+  The link to my application is https://github.com/markthos/Pro-Readme-Generator#title. If you have any questions, please feel free to contact me through github https://github.com/markthos or directly by email aydenthos@gmail.com.
+  
+  
