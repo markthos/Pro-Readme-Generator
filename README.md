@@ -15,10 +15,10 @@
   * [Questions](#questions)
 
   ## Installation
-  Clone a copy of this repo into a folder on your computer. Open in VScode and make sure that you have Node.js and Inquirer@6.3.1 installed.
+  Clone a copy of this repo into a foldler on your computer. Open in Vscode and make sure that you have Node.js installed already.  In the integrated terminal use npm intall inquirer@6.3.1.
 
   ## Usage
-  To run the application open the folder in your integratd terminal and type node index.js in the command line. Answer the questions with as much detail as your can and the application will generate a README.md file for you. Copy that file into your application repo to use as your README file.
+  To run this application, open the folder in your integrated terminal and type node index.js in the command line.  Answer the questions with as much detail as you can and the application will generate a README file. Copy that file into your application repo to use as your README file.
 
   ## License
   This project is under the MIT [License](https://opensource.org/licenses/MIT) license.
@@ -27,9 +27,9 @@
   N/A
 
   ## Tests
-  Please try to break this code and make sure to let me know when you do so I can fix it!
+  Please for the love of JavaScript try to break this code and make sure to let me know when you do, so I can fix it!
 
   ## Questions
-  The link to my application is https://github.com/markthos/Pro-Readme-Generator. If you have any questions, please feel free to contact me through github or directly by email.
+  The link to my application is https://github.com/markthos/Pro-Readme-Generator#title. If you have any questions, please feel free to contact me through github or directly by email.
   https://github.com/markthos
   aydenthos@gmail.com
