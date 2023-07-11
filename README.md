@@ -21,7 +21,7 @@
   To run this application, open the folder in your integrated terminal and type node index.js in the command line.  Answer the questions with as much detail as you can and the application will generate a README file. Copy that file into your application repo to use as your README file.  Here is a video of how to use this application once you have cloned a copy into a folder on your computer. https://drive.google.com/file/d/1egZF6n1yVG3VWXmvFveDUWsI2ca18m9r/view
 
   ## License
-  This project is under the MIT [License](https://opensource.org/licenses/MIT) license.
+  This project is under the MIT [License](https://opensource.org/licenses/MIT).
 
   ## Contribution
   N/A
