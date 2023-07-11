@@ -30,6 +30,6 @@
   Please for the love of JavaScript try to break this code and make sure to let me know when you do, so I can fix it!
 
   ## Questions
-  The link to my application is https://github.com/markthos/Pro-Readme-Generator#title. If you have any questions, please feel free to contact me through github https://github.com/markthos or directly by email aydenthos@gmail.com.
+  The link to my application is [https://github.com/markthos/Pro-Readme-Generator#title](https://github.com/markthos/Pro-Readme-Generator/tree/main). If you have any questions, please feel free to contact me through github https://github.com/markthos or directly by email aydenthos@gmail.com.
   
   
